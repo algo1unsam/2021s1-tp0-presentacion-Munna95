@@ -1,6 +1,10 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Luciana Galera
+
+![munna](https://user-images.githubusercontent.com/49133201/110552759-a5736980-8116-11eb-8df1-c2733e76d370.PNG)
+
+------
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 

@@ -2,6 +2,8 @@
 
 ## Estudiante: Luciana Galera
 
+Estudiante de programación. Tengo una gata que se llama Munna.
+
 ![munna](https://user-images.githubusercontent.com/49133201/110552759-a5736980-8116-11eb-8df1-c2733e76d370.PNG)
 
 ------
